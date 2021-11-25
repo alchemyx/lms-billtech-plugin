@@ -18,7 +18,7 @@ fakturach pozwalając na wykonanie płatności online poprzez platformę BillTec
 * Dodanie przycisku *Opłać teraz* do ekranu blokady internetu,
 * Przekazanie informacji o płatności wykonanej na platformie BillTech do LMS.
 
-Szczegółowa [dokumnetacja API](https://docs.billtech.pl/) produktu Bill Gateway.
+Szczegółowa [dokumentacja API](https://docs.billtech.pl/) produktu Bill Gateway.
 
 > #### Uwaga
 > Wtyczka do działania wymaga aktualizacji odpowiedniej wersji LMS. W przypadku posiadania najnowszej wersji
